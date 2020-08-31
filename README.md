@@ -1,6 +1,6 @@
 # Round Robin Generator
 
-## A round robin generator built in Go
+### A round robin generator built in Go
 
 ### Options
 
